@@ -1,0 +1,15 @@
+[Set] -> [ Location.protocol ] -> (chrome:)
+[Set] -> [ Location.href ] -> (chrome://newtab/)
+[Set] -> [ Location.host ] -> (newtab)
+[Set] -> [ Location.port ] -> ()
+[Set] -> [ Location.search ] -> ()
+[Get] -> [ Location.host ] -> [ newtab ]
+[Set] -> [ Location.hostname ] -> (newtab)
+[Set] -> [ Location.pathname ] -> (/)
+[Get] -> [ Location.protocol ] -> [ chrome: ]
+[Get] -> [ Location.host ] -> [ newtab ]
+[Set] -> [ Location.origin ] -> (chrome://newtab)
+[Get] -> [ Location.href ] -> [ chrome://newtab/ ]
+[Set] -> [ Location.hash ] -> ()
+[Get] -> [ Location.port ] -> [  ]
+[Get] -> [ Location.href ] -> [ chrome://newtab/ ]
